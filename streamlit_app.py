@@ -5,14 +5,14 @@ import pandas as pd
 
 # --- 1. 페이지 기본 설정 ---
 st.set_page_config(
-    page_title="아바다케다브라",
+    page_title="Streamlit 마법 교실",
     page_icon="🔮",
     layout="wide"
 )
 
 # --- 2. 페이지 타이틀 ---
-st.title("익스펙토페트로늄")
-st.subheader("윙가르디움레비오우사")
+st.title("Streamlit 마법 교실 🔮")
+st.subheader("HTML/CSS를 활용해 멋진 효과를 만들어 봐요!")
 st.markdown("---") # 구분선
 
 # --- 3. 모든 커스텀 CSS ---
